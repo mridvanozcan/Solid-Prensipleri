@@ -1,0 +1,11 @@
+C:\Users\M.Ridvan Ozcan\source\repos\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\netcoreapp2.0\InterfaceSegregationPrinciple.deps.json
+C:\Users\M.Ridvan Ozcan\source\repos\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\netcoreapp2.0\InterfaceSegregationPrinciple.runtimeconfig.json
+C:\Users\M.Ridvan Ozcan\source\repos\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\netcoreapp2.0\InterfaceSegregationPrinciple.runtimeconfig.dev.json
+C:\Users\M.Ridvan Ozcan\source\repos\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\netcoreapp2.0\InterfaceSegregationPrinciple.dll
+C:\Users\M.Ridvan Ozcan\source\repos\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\netcoreapp2.0\InterfaceSegregationPrinciple.pdb
+C:\Users\M.Ridvan Ozcan\source\repos\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\netcoreapp2.0\InterfaceSegregationPrinciple.csprojAssemblyReference.cache
+C:\Users\M.Ridvan Ozcan\source\repos\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\netcoreapp2.0\InterfaceSegregationPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\M.Ridvan Ozcan\source\repos\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\netcoreapp2.0\InterfaceSegregationPrinciple.AssemblyInfoInputs.cache
+C:\Users\M.Ridvan Ozcan\source\repos\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\netcoreapp2.0\InterfaceSegregationPrinciple.AssemblyInfo.cs
+C:\Users\M.Ridvan Ozcan\source\repos\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\netcoreapp2.0\InterfaceSegregationPrinciple.dll
+C:\Users\M.Ridvan Ozcan\source\repos\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\netcoreapp2.0\InterfaceSegregationPrinciple.pdb

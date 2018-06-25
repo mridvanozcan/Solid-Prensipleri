@@ -1,0 +1,11 @@
+C:\Users\M.Ridvan Ozcan\source\repos\DependecyInversionPrinciple\DependecyInversionPrinciple\bin\Debug\netcoreapp2.0\DependecyInversionPrinciple.deps.json
+C:\Users\M.Ridvan Ozcan\source\repos\DependecyInversionPrinciple\DependecyInversionPrinciple\bin\Debug\netcoreapp2.0\DependecyInversionPrinciple.runtimeconfig.json
+C:\Users\M.Ridvan Ozcan\source\repos\DependecyInversionPrinciple\DependecyInversionPrinciple\bin\Debug\netcoreapp2.0\DependecyInversionPrinciple.runtimeconfig.dev.json
+C:\Users\M.Ridvan Ozcan\source\repos\DependecyInversionPrinciple\DependecyInversionPrinciple\bin\Debug\netcoreapp2.0\DependecyInversionPrinciple.dll
+C:\Users\M.Ridvan Ozcan\source\repos\DependecyInversionPrinciple\DependecyInversionPrinciple\bin\Debug\netcoreapp2.0\DependecyInversionPrinciple.pdb
+C:\Users\M.Ridvan Ozcan\source\repos\DependecyInversionPrinciple\DependecyInversionPrinciple\obj\Debug\netcoreapp2.0\DependecyInversionPrinciple.csprojAssemblyReference.cache
+C:\Users\M.Ridvan Ozcan\source\repos\DependecyInversionPrinciple\DependecyInversionPrinciple\obj\Debug\netcoreapp2.0\DependecyInversionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\M.Ridvan Ozcan\source\repos\DependecyInversionPrinciple\DependecyInversionPrinciple\obj\Debug\netcoreapp2.0\DependecyInversionPrinciple.AssemblyInfoInputs.cache
+C:\Users\M.Ridvan Ozcan\source\repos\DependecyInversionPrinciple\DependecyInversionPrinciple\obj\Debug\netcoreapp2.0\DependecyInversionPrinciple.AssemblyInfo.cs
+C:\Users\M.Ridvan Ozcan\source\repos\DependecyInversionPrinciple\DependecyInversionPrinciple\obj\Debug\netcoreapp2.0\DependecyInversionPrinciple.dll
+C:\Users\M.Ridvan Ozcan\source\repos\DependecyInversionPrinciple\DependecyInversionPrinciple\obj\Debug\netcoreapp2.0\DependecyInversionPrinciple.pdb

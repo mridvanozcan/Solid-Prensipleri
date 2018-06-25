@@ -1,0 +1,11 @@
+C:\Users\M.Ridvan Ozcan\source\repos\LiskovsSubstitution\LiskovsSubstitution\bin\Debug\netcoreapp2.0\LiskovsSubstitution.deps.json
+C:\Users\M.Ridvan Ozcan\source\repos\LiskovsSubstitution\LiskovsSubstitution\bin\Debug\netcoreapp2.0\LiskovsSubstitution.runtimeconfig.json
+C:\Users\M.Ridvan Ozcan\source\repos\LiskovsSubstitution\LiskovsSubstitution\bin\Debug\netcoreapp2.0\LiskovsSubstitution.runtimeconfig.dev.json
+C:\Users\M.Ridvan Ozcan\source\repos\LiskovsSubstitution\LiskovsSubstitution\bin\Debug\netcoreapp2.0\LiskovsSubstitution.dll
+C:\Users\M.Ridvan Ozcan\source\repos\LiskovsSubstitution\LiskovsSubstitution\bin\Debug\netcoreapp2.0\LiskovsSubstitution.pdb
+C:\Users\M.Ridvan Ozcan\source\repos\LiskovsSubstitution\LiskovsSubstitution\obj\Debug\netcoreapp2.0\LiskovsSubstitution.csprojAssemblyReference.cache
+C:\Users\M.Ridvan Ozcan\source\repos\LiskovsSubstitution\LiskovsSubstitution\obj\Debug\netcoreapp2.0\LiskovsSubstitution.csproj.CoreCompileInputs.cache
+C:\Users\M.Ridvan Ozcan\source\repos\LiskovsSubstitution\LiskovsSubstitution\obj\Debug\netcoreapp2.0\LiskovsSubstitution.AssemblyInfoInputs.cache
+C:\Users\M.Ridvan Ozcan\source\repos\LiskovsSubstitution\LiskovsSubstitution\obj\Debug\netcoreapp2.0\LiskovsSubstitution.AssemblyInfo.cs
+C:\Users\M.Ridvan Ozcan\source\repos\LiskovsSubstitution\LiskovsSubstitution\obj\Debug\netcoreapp2.0\LiskovsSubstitution.dll
+C:\Users\M.Ridvan Ozcan\source\repos\LiskovsSubstitution\LiskovsSubstitution\obj\Debug\netcoreapp2.0\LiskovsSubstitution.pdb

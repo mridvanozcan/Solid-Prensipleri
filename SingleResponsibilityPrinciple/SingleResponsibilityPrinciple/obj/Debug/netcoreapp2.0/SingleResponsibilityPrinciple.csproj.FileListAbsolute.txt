@@ -1,0 +1,11 @@
+C:\Users\M.Ridvan Ozcan\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\netcoreapp2.0\SingleResponsibilityPrinciple.deps.json
+C:\Users\M.Ridvan Ozcan\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\netcoreapp2.0\SingleResponsibilityPrinciple.runtimeconfig.json
+C:\Users\M.Ridvan Ozcan\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\netcoreapp2.0\SingleResponsibilityPrinciple.runtimeconfig.dev.json
+C:\Users\M.Ridvan Ozcan\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\netcoreapp2.0\SingleResponsibilityPrinciple.dll
+C:\Users\M.Ridvan Ozcan\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\netcoreapp2.0\SingleResponsibilityPrinciple.pdb
+C:\Users\M.Ridvan Ozcan\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\netcoreapp2.0\SingleResponsibilityPrinciple.csprojAssemblyReference.cache
+C:\Users\M.Ridvan Ozcan\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\netcoreapp2.0\SingleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\M.Ridvan Ozcan\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\netcoreapp2.0\SingleResponsibilityPrinciple.AssemblyInfoInputs.cache
+C:\Users\M.Ridvan Ozcan\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\netcoreapp2.0\SingleResponsibilityPrinciple.AssemblyInfo.cs
+C:\Users\M.Ridvan Ozcan\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\netcoreapp2.0\SingleResponsibilityPrinciple.dll
+C:\Users\M.Ridvan Ozcan\source\repos\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\netcoreapp2.0\SingleResponsibilityPrinciple.pdb
